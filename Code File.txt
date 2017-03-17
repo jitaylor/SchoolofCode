@@ -1,0 +1,4 @@
+log into clound foundary via terminal
+
+push changes
+
